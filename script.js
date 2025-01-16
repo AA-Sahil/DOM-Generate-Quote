@@ -72,6 +72,10 @@ const Quotes =  [
         author: "Ken Bir"
       },
       {
+        quote: "Can’t repeat the past? Why of course you can!",
+        author: "The Great Gatsby"
+      },
+      {
         quote: "আসল প্রতিশোধ, প্রতিশোধ নেওয়া নয়, বরং জীবনকে চালিয়ে যাওয়া।",
         author: "Anonymous"
       },
@@ -82,6 +86,10 @@ const Quotes =  [
       {
         quote: "ভালোবাসা মানুষের ভিতরের সুন্দর দিকগুলি উন্মচিত করে",
         author: "Anonymous"
+      },
+      {
+        quote: "Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+        author: "The Great Gatsby"
       },
       {
         quote: "ভালোবাসা একমাত্র বস্তু যা কখনো ভুলে যাওয়া যায় না।",
@@ -324,7 +332,77 @@ const Quotes =  [
         quote: "মানুষ তার স্বপ্নের সমান বড়।",
         author: "Humayun Ahmed"
       },
+      {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        author: "Winston Churchill"
+    },
+    {
+        quote: "সফলতা আসে তাদেরই কাছে যারা লড়াই চালিয়ে যায়।",
+        author: "Anonymous"
+    },
+    {
+        quote: "In the middle of every difficulty lies opportunity.",
+        author: "Albert Einstein"
+    },
+    {
+        quote: "আপনার জীবন আপনার সিদ্ধান্তের উপর নির্ভর করে।",
+        author: "Anonymous"
+    },
+    {
+        quote: "It does not matter how slowly you go as long as you do not stop.",
+        author: "Confucius"
+    },
+    {
+        quote: "সমস্যা আমাদের শক্তি পরীক্ষা করার জন্য আসে।",
+        author: "Anonymous"
+    },
+    {
+        quote: "Happiness is not something ready made. It comes from your own actions.",
+        author: "Dalai Lama"
+    },
+    {
+        quote: "কঠিন পথই আমাদের সাফল্যের দিকে নিয়ে যায়।",
+        author: "Anonymous"
+    },
+    {
+        quote: "Do what you can, with what you have, where you are.",
+        author: "Theodore Roosevelt"
+    },
+    {
+        quote: "জীবন হলো একটি লড়াই, যেখানে লড়াই না করলে তুমি হেরে যাবে।",
+        author: "Anonymous"
+    },
+    {
+        quote: "To live is the rarest thing in the world. Most people exist, that is all.",
+        author: "Oscar Wilde"
+    },
+    {
+        quote: "যারা স্বপ্ন দেখে, তারাই জীবনকে বদলে দিতে পারে।",
+        author: "Anonymous"
+    },
+    {
+        quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        author: "Buddha"
+    },
+    {
+        quote: "কোনো কিছুই সহজে পাওয়া যায় না। প্রতিটি জিনিস অর্জন করতে হয়।",
+        author: "Anonymous"
+    },
+    {
+        quote: "Life is what happens when you're busy making other plans.",
+        author: "John Lennon"
+    },
+    {
+        quote: "জীবনকে উপভোগ করুন, কারণ এটি খুবই ছোট।",
+        author: "Anonymous"
+    },
+    {
+        quote: "Your time is limited, don't waste it living someone else's life.",
+        author: "Steve Jobs"
+    }
 ]
+
+console.log(Quotes.length)
 
 // get random Quotes
 
